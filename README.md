@@ -3,6 +3,8 @@
 # 💫 About Me:
 🔭 I’m currently working on building projects to showcase my skills<br>👯 I’m looking to collaborate on UI/UX Design work<br>🤔 I’m looking for help with Adobe Photoshop<br>💬 Ask me about Prototyping, Micro Interactions, Animations and UX optimization
 
+Portfolio: designwithmark.in
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/markpatel_2306) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/patel-mark) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:markpatel2306@gmail.com) 
