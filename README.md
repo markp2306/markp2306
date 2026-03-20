@@ -3,7 +3,7 @@
 # 💫 About Me:
 🔭 I’m currently working on building projects to showcase my skills<br>👯 I’m looking to collaborate on UI/UX Design work<br>🤔 I’m looking for help with Adobe Photoshop<br>💬 Ask me about Prototyping, Micro Interactions, Animations and UX optimization
 
-Portfolio: designwithmark.in
+Portfolio: https://designwithmark.in
 
 
 ## 🌐 Socials:
